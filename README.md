@@ -1,0 +1,4 @@
+- HttpClient do C# para consumir APIs externas
+- AutoMapper
+- DTO
+- Injeção de Dependências
